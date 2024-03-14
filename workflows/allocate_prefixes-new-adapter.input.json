@@ -1,0 +1,17 @@
+{
+
+    "endpoints": [
+        {
+            "ip": "192.168.100.0/24",
+            "des": "1st subnet allocated with newly created netbox adapter"
+        },
+        {
+            "ip": "192.168.170.0/24",
+            "des": "2nd subnet allocated with newly created netbox adapter"
+        },
+        {
+            "ip": "192.168.180.0/24",
+            "des": "3rd subnet allocated with newly created netbox adapter"
+        }
+    ]
+}
