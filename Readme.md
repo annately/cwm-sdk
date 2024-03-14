@@ -1,3 +1,4 @@
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/annately/cwm-sdk)
 <p align="center">
   <h3 align="center">How to Build CWM Adapter</h3>
   <p align="center">SDK and XDK
